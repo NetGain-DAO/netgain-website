@@ -28,7 +28,7 @@ const LOGO = "/logo.png";
 const LINKS = {
   app: "https://app.netgaindao.io",
   whitepaper: "https://docs.netgaindao.io",
-  discord: "#",
+  discord: "https://discord.gg/keGSryfgp",
   telegram: "https://t.me/netgaindao",
   x: "https://x.com/netgaindao",
   bscscan: "https://bscscan.com",
