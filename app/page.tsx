@@ -29,7 +29,7 @@ const LINKS = {
   app: "https://app.netgaindao.io",
   whitepaper: "https://docs.netgaindao.io",
   discord: "#",
-  telegram: "#",
+  telegram: "https://t.me/netgaindao",
   x: "https://x.com/netgaindao",
   bscscan: "https://bscscan.com",
 };
