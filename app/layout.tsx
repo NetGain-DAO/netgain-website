@@ -14,10 +14,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "NetGain DAO",
-  description: "NetGain DAO is a community-owned multi-asset treasury ecosystem built on BNB Smart Chain.",
+  description:
+    "NetGain DAO is a community-owned multi-asset treasury ecosystem built on BNB Smart Chain.",
   icons: {
     icon: "/logo.png",
-};
+  },
 };
 
 export default function RootLayout({
